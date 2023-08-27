@@ -1,0 +1,14 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc -w node dist/index.js"
+  },
+  "dependencies": {
+    "@types/luxon": "^3.3.1",
+    "helpful-decorators": "^2.1.0",
+    "luxon": "^3.4.2"
+  }
+}
